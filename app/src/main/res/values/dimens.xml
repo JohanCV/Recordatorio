@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_edit_text">15dp</dimen>
+    <dimen name="margin_item_recycler">5dp</dimen>
+    <dimen name="margin_card">1dp</dimen>
+</resources>
